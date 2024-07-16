@@ -1,0 +1,124 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "The Giant Gila Monster",
+      "runtime": "208",
+      "capacity": 30,
+      "showtime": "04:00PM",
+      "tickets_sold": 27,
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Manos: The Hands Of Fate",
+      "runtime": "118",
+      "capacity": 50,
+      "showtime": "06:45PM",
+      "tickets_sold": 4,
+      "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+    },
+    {
+        "id": "3",
+        "title": "The Shawshank Redemption",
+        "runtime": "142",
+        "capacity": 100,
+        "showtime": "12:30PM",
+        "tickets_sold": 75,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/1560/p1560_v_v8_ad.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Inception",
+        "runtime": "148",
+        "capacity": 80,
+        "showtime": "03:15PM",
+        "tickets_sold": 60,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/48466/p48466_v_v8_aa.jpg"
+      },
+      {
+        "id": "5",
+        "title": "The Matrix",
+        "runtime": "136",
+        "capacity": 90,
+        "showtime": "05:45PM",
+        "tickets_sold": 70,
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/21121/p21121_v_v8_ab.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Pulp Fiction",
+        "runtime": "154",
+        "capacity": 85,
+        "showtime": "08:30PM",
+        "tickets_sold": 50,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/14834/p14834_v_v8_ac.jpg"
+      },
+      {
+        "id": "7",
+        "title": "The Dark Knight",
+        "runtime": "152",
+        "capacity": 120,
+        "showtime": "02:00PM",
+        "tickets_sold": 100,
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/173378/p173378_v_v8_ab.jpg"
+      },
+      {
+        "id": "8",
+        "title": "Fight Club",
+        "runtime": "139",
+        "capacity": 70,
+        "showtime": "06:00PM",
+        "tickets_sold": 55,
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/23131/p23131_v_v8_aa.jpg"
+      },
+      {
+        "id": "9",
+        "title": "Forrest Gump",
+        "runtime": "142",
+        "capacity": 110,
+        "showtime": "04:30PM",
+        "tickets_sold": 90,
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/1563/p1563_v_v8_aa.jpg"
+      },
+      {
+        "id": "10",
+        "title": "Interstellar",
+        "runtime": "169",
+        "capacity": 95,
+        "showtime": "07:15PM",
+        "tickets_sold": 80,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/10767365/p10767365_v_v8_ad.jpg"
+      },
+      {
+        "id": "11",
+        "title": "The Silence of the Lambs",
+        "runtime": "118",
+        "capacity": 75,
+        "showtime": "09:00PM",
+        "tickets_sold": 70,
+        "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/14695/p14695_v_v8_ak.jpg"
+      },
+      {
+        "id": "12",
+        "title": "Schindler's List",
+        "runtime": "195",
+        "capacity": 60,
+        "showtime": "01:45PM",
+        "tickets_sold": 55,
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/14301/p14301_v_v8_ac.jpg"
+      }
+    ]
+}
